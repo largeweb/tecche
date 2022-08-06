@@ -1,2 +1,2 @@
 # tecche
-simple ecommerce site
+simple ecommerce progressive web app
